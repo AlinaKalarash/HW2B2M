@@ -1,0 +1,18 @@
+
+7
+java:S1220""Move this file to a named package.8ûÊ‹åÕ1
+G	java:S106"+Replace this use of System.out by a logger.(Ä™¶Æ8…Ì‹åÕ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ä¬àÏ8‰Ì‹åÕ1
+G	java:S106"+Replace this use of System.out by a logger.(½šÆÛ8ŠÌ‹åÕ1
+G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8‹Ì‹åÕ1
+F	java:S106"+Replace this use of System.out by a logger.(š²ıc8‹Ì‹åÕ1
+G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8‹Ì‹åÕ1
+G	java:S106 "+Replace this use of System.out by a logger.(èå”8‹Ì‹åÕ1
+G	java:S106."+Replace this use of System.out by a logger.(Ú÷•Ï8Ì‹åÕ1
+G	java:S1064"+Replace this use of System.out by a logger.(àïôÊ8Ì‹åÕ1
+o
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(”®©»8å¢åÕ1
+G	java:S106T"+Replace this use of System.out by a logger.(¯Óêï8ˆÓ“åÕ1
+G	java:S106X"+Replace this use of System.out by a logger.(‰¨ËÓ8ˆÓ“åÕ1
+L	java:S106Z"+Replace this use of System.out by a logger.(äßŸµşÿÿÿÿ8‰Ó“åÕ1

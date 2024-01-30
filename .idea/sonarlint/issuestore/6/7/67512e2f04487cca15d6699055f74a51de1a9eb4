@@ -1,19 +1,19 @@
 
-z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8êàÍÙÕ1
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ØŞÄÛÕ1
 7
-java:S1220""Move this file to a named package.8ëàÍÙÕ1
+java:S1220""Move this file to a named package.8Â¢›ÛÕ1
 o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 75 to the 15 allowed.(Çµí‘8İáÍÙÕ1
-G	java:S106"+Replace this use of System.out by a logger.(Ä™¶Æ8ááÍÙÕ1
-G	java:S106"+Replace this use of System.out by a logger.(½šÆÛ8ááÍÙÕ1
-G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8ááÍÙÕ1
-F	java:S106"+Replace this use of System.out by a logger.(š²ıc8ááÍÙÕ1
-G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8âáÍÙÕ1
-G	java:S106"+Replace this use of System.out by a logger.(èå”8âáÍÙÕ1
-G	java:S106"+Replace this use of System.out by a logger.(¯Óêï8âáÍÙÕ1
-G	java:S106 "+Replace this use of System.out by a logger.(‰¨ËÓ8âáÍÙÕ1
-L	java:S106""+Replace this use of System.out by a logger.(äßŸµşÿÿÿÿ8âáÍÙÕ1
-G	java:S106+"+Replace this use of System.out by a logger.(Ú÷•Ï8ãáÍÙÕ1
-G	java:S1061"+Replace this use of System.out by a logger.(àïôÊ8ãáÍÙÕ1
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 75 to the 15 allowed.(Çµí‘8û¦›ÛÕ1
+G	java:S106"+Replace this use of System.out by a logger.(Ä™¶Æ8°¥ÛÕ1
+G	java:S106"+Replace this use of System.out by a logger.(½šÆÛ8²¥ÛÕ1
+G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8³¥ÛÕ1
+F	java:S106"+Replace this use of System.out by a logger.(š²ıc8´¥ÛÕ1
+G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8µ¥ÛÕ1
+G	java:S106"+Replace this use of System.out by a logger.(èå”8¶¥ÛÕ1
+G	java:S106"+Replace this use of System.out by a logger.(¯Óêï8»¥ÛÕ1
+G	java:S106 "+Replace this use of System.out by a logger.(‰¨ËÓ8¼¥ÛÕ1
+L	java:S106""+Replace this use of System.out by a logger.(äßŸµşÿÿÿÿ8©®áÛÕ1
+G	java:S106+"+Replace this use of System.out by a logger.(Ú÷•Ï8ª®áÛÕ1
+G	java:S1061"+Replace this use of System.out by a logger.(àïôÊ8ª®áÛÕ1
 â
-java:S6541"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 73 to 64, Complexity from 67 to 14, Nesting Level from 4 to 2, Number of Variables from 9 to 6.(Çµí‘8äáÍÙÕ1
+java:S6541"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 73 to 64, Complexity from 67 to 14, Nesting Level from 4 to 2, Number of Variables from 9 to 6.(Çµí‘8úßÄÛÕ1
