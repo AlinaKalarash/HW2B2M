@@ -1,12 +1,22 @@
 
-G	java:S106	"+Replace this use of System.out by a logger.(Ä™¶Æ8ŸÌšæÕ1
-G	java:S106"+Replace this use of System.out by a logger.(½šÆÛ8¢ÌšæÕ1
-G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8¢ÌšæÕ1
-F	java:S106"+Replace this use of System.out by a logger.(š²ıc8¢ÌšæÕ1
-G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8¢ÌšæÕ1
-G	java:S106 "+Replace this use of System.out by a logger.(èå”8£ÌšæÕ1
-G	java:S106D"+Replace this use of System.out by a logger.(Ú÷•Ï8Ú›ÈæÕ1
-G	java:S106J"+Replace this use of System.out by a logger.(àïôÊ8Ú›ÈæÕ1
-G	java:S106\"+Replace this use of System.out by a logger.(¯Óêï8Ú›ÈæÕ1
-G	java:S106_"+Replace this use of System.out by a logger.(‰¨ËÓ8Û›ÈæÕ1
-L	java:S106b"+Replace this use of System.out by a logger.(äßŸµşÿÿÿÿ8Û›ÈæÕ1
+x
+java:S1450"[Remove the "boxAvailable" field and declare it as a local variable in the relevant methods.(ëæä‚8«Í£çÕ1
+m
+java:S1450
+"PRemove the "i" field and declare it as a local variable in the relevant methods.(è‡Ç8Ãä¢çÕ1
+q
+java:S1450"TRemove the "input" field and declare it as a local variable in the relevant methods.(¹­‚ñ8ñ»±çÕ1
+u
+java:S1450	"SRemove the "rand" field and declare it as a local variable in the relevant methods.(´Ò­ëÿÿÿÿÿ8®»¡çÕ1
+G	java:S106"+Replace this use of System.out by a logger.(½šÆÛ8¢ÌšæÕ1
+G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8¢ÌšæÕ1
+F	java:S106"+Replace this use of System.out by a logger.(š²ıc8¢ÌšæÕ1
+G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8¢ÌšæÕ1
+G	java:S106"+Replace this use of System.out by a logger.(èå”8£ÌšæÕ1
+G	java:S106<"+Replace this use of System.out by a logger.(Ú÷•Ï8Ú›ÈæÕ1
+G	java:S106B"+Replace this use of System.out by a logger.(àïôÊ8Ú›ÈæÕ1
+G	java:S106T"+Replace this use of System.out by a logger.(¯Óêï8Ú›ÈæÕ1
+G	java:S106W"+Replace this use of System.out by a logger.(‰¨ËÓ8Û›ÈæÕ1
+L	java:S106Z"+Replace this use of System.out by a logger.(äßŸµşÿÿÿÿ8Û›ÈæÕ1
+W
+java:S1117d"5Rename "i" which hides the field declared at line 10.(˜Á£àıÿÿÿÿ8ßù˜çÕ1

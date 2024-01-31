@@ -4,24 +4,16 @@ import java.util.Scanner;
 
 public class App {
 
-    public static void main(String[] args) {
+    private Scanner scan = new Scanner(System.in);
+    private byte input;
+    private byte rand;
+    private byte i;
+    private boolean boxAvailable;
+    private char[] box = {'1', '2', '3', '4', '5', '6', '7', '8', '9'};
 
-        System.out.println("Enter box number to select. Enjoy!\n");
+    private boolean boxEmpty = false;
 
-
-        start();
-    }
-
-    static Scanner scan = new Scanner(System.in);
-    static byte input;
-    static byte rand;
-    static byte i;
-    static boolean boxAvailable;
-    static char[] box = {'1', '2', '3', '4', '5', '6', '7', '8', '9'};
-
-    static boolean boxEmpty = false;
-
-    public static void start() {
+    public void start() {
 
         while (true) {
 //            Базове меню
@@ -60,7 +52,7 @@ public class App {
     }
 
 //    Сканує відповідь користувача та за потреби корегує її
-    public static void sc() {
+    public void sc() {
         while (true) {
             input = scan.nextByte();
             if (input > 0 && input < 10) {
@@ -76,7 +68,7 @@ public class App {
     }
 
 //    Генерує в яку клітинку поставити 'O'
-    public static void randNum() {
+    public void randNum() {
         while (true) {
             rand = (byte) (Math.random() * 9 + 1);
             if (box[rand - 1] != 'X' && box[rand - 1] != 'O') {
@@ -87,7 +79,7 @@ public class App {
     }
 
 //    Звітує результат гри
-    public static void resultOfGame() {
+    public void resultOfGame() {
         if (isItWin('X')) {
             System.out.println("You won the game!\nCreated by Shreyas Saha. Thanks for playing!");
 
@@ -102,7 +94,7 @@ public class App {
     }
 
 //    Перевірка на виграш
-    public static boolean isItWin(char a) {
+    public boolean isItWin(char a) {
         boolean win = false;
 
         for (int i = 0; i < 3; i++) {

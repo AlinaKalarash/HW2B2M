@@ -1,6 +1,4 @@
 
-F
-src/main/java/App.java,6\7\67512e2f04487cca15d6699055f74a51de1a9eb4
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 7
@@ -15,8 +13,6 @@ Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140
 Q.idea/sonarlint/securityhotspotstore/0/5/05fdf6b79c015c911b10f69ff83ed7ce9a822a74,6\d\6d174b00274f95675f7cc19c0b09632d6f1323a0
 Å
 Q.idea/sonarlint/securityhotspotstore/6/7/67512e2f04487cca15d6699055f74a51de1a9eb4,6\d\6d745d781a776adac3fa77c8278111a3dff5a966
-G
-src/main/java/App2.java,4\e\4ee0c8d37d2837bb63018d69920fbebdf6c40ffd
 w
 G.idea/sonarlint/issuestore/6/d/6d1b97774e3a5c8b72d335960c7e90858923e537,4\b\4b489258275be79de179c02ddba76f58526760de
 w
@@ -179,14 +175,6 @@ w
 G.idea/sonarlint/issuestore/f/1/f124d419cd24e10c8bff57e4e798c3d5a5ee540e,2\b\2b5d0c60841ea80763bc776c78acac1065408e4e
 w
 G.idea/sonarlint/issuestore/f/0/f0e0f9cec86fe4b939ae22be5264c758801eb28f,5\0\50e216b4439d2538168c3ddca9c0c2fe23bd1c02
-Q
-!src/main/java/TicTacToe/App2.java,e\3\e3d1e432131e87fa54db0cad2c7a6fb714debee3
-O
-src/main/java/example/App2.java,4\9\49147997ba4f92755f343fc6851729652e9648e6
-S
-#src/main/java/org/example/App2.java,b\7\b76f5ba3014c7f2eb37ed34be53ff564120f1e87
-K
-src/main/java/org/App2.java,f\a\fa158d010ac3ad6bc95af9f71314eda2151ca14f
 R
 "src/main/java/org/example/App.java,2\6\268b09d2a5cdab7d148f0ec91f7b3fb51601410d
 w
@@ -413,3 +401,7 @@ w
 G.idea/sonarlint/issuestore/d/6/d691c4746b5dfe0abc581dae617d7c78e608d23c,9\e\9e0c0e65d3d0526b29eac6bd284fdff266f3c9ea
 Å
 Q.idea/sonarlint/securityhotspotstore/7/9/79b32d8d52bc026f197de7aeedeb0543cb5b4363,a\9\a936b793cd05d8ac7c40a4a73fb26a496a69e8c9
+Å
+Q.idea/sonarlint/securityhotspotstore/2/6/268b09d2a5cdab7d148f0ec91f7b3fb51601410d,e\5\e522c1cf5ae6402ba0f08e13e9766bd337634aea
+S
+#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
